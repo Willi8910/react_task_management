@@ -1,0 +1,1 @@
+export type UseStateProps<T> = [T, React.Dispatch<React.SetStateAction<T>>];
